@@ -54,10 +54,3 @@ const validarMovie = (req, res, next) => {
 
 
 module.exports={validarMovie};
-/*     const { title, year, director, duration, genre, rate, poster } = req.body;
-
-    if (!title || !year || !director || !duration || !genre || !rate || !poster) {
-        return res.status(400).json({ error: "Campos Vacíos o Inválidos" });
-    }
-    next();
-} */
