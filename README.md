@@ -23,7 +23,7 @@ Simulación de una plataforma de streaming de películas.
 | **Bootstrap**  | Framework de CSS para crear una interfaz rápida, moderna y responsiva. |
 | **Mongoose**   | Librería de ODM (Object Data Modeling) para MongoDB en Node.js. |
 | **MongoDB**    | Base de datos NoSQL, utilizada para almacenar los datos de películas y usuarios. |
-| **Express**    | Framework minimalista para Node.js para construir la API del backend. |
+| **Express**    | Framework  para Node.js para construir la API del backend. |
 
 ---
 
